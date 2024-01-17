@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Rock-Paper-Scissors Game</h1>
+<h1 align="center" id="title">Hand Cricket Game</h1>
 
-<p id="description">Welcome to the Rock-Paper-Scissors game! This is a simple console-based game where the user can play against the computer.</p>
+<p id="description">Welcome to the Hand Cricket (Odd-Even) game! This console-based game allows you to play a simple hand cricket match against the computer.</p>
 
   
   
@@ -19,19 +19,19 @@ Here're some of the project's best features:
 <p>1. Clone the repository to your local machine.</p>
 
 ```
-git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/your-username/hand-cricket.git
 ```
 
 <p>2. Navigate to the project directory.</p>
 
 ```
-cd rock-paper-scissors
+cd hand-cricket
 ```
 
 <p>3. Run the game script.</p>
 
 ```
-python rock_paper_scissors.py
+python hand_cricket.py
 ```
 
 <p>4. Follow the on-screen instructions to play the game.</p>
@@ -42,4 +42,4 @@ If you'd like to contribute to the development of this game feel free to fork th
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the This Rock-Paper-Scissors game is licensed under the MIT License. Enjoy the game! 🎮
+This project is licensed under the This Hand Cricket (Odd-Even) game is licensed under the MIT License. Enjoy the game! 🏏
