@@ -38,8 +38,9 @@ python hand_cricket.py
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-If you'd like to contribute to the development of this game feel free to fork the repository and submit pull requests.
+If you'd like to contribute to the development of this game feel free to fork the repository and submit pull requests!
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the This Hand Cricket (Odd-Even) game is licensed under the MIT License. Enjoy the game! 🏏
+This project is licensed under the This Hand Cricket (Odd-Even) game is licensed under the MIT License. 
+Enjoy the game! 🏏
